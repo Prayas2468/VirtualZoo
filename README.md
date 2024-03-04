@@ -1,2 +1,2 @@
 # VirtualZoo
-![Image Alt Text](./readMeImg.jpg)
+![Image Alt Text](./readMeImg.jpeg)
